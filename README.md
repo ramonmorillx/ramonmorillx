@@ -17,7 +17,7 @@ Soy un apasionado de la Ciencia de Datos y un eterno curioso, siempre buscando l
 
 ⚡ Dato curioso: Además de la programación, soy un gran fan de la economía y las finanzas, y disfruto integrando estos intereses en mis proyectos cuando puedo.
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ramonmorillx">
