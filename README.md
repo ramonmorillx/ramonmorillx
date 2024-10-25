@@ -13,6 +13,6 @@ Soy un apasionado de la Ciencia de Datos y un eterno curioso, siempre buscando l
 
 💬 Pregúntame sobre; Ciencia de Datos, Python, modelado de datos y visualización. También me encanta hablar sobre estrategias de aprendizaje y recursos útiles para la programación y el análisis de datos.
 
-📫 Cómo contactarme: Puedes escribirme a través de mi [correo electrónico](ramonvejer@gmail.com) o en mis redes sociales.
+📫 Cómo contactarme: Puedes escribirme a través de mi [correo electrónico]([ramonvejer@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXRHgBTBGkgMLKtDvRDrwxDdqwbFXDZvwKXkTrRVDPTXBKCczXrSKRHfdklsjPWLbTRQb)) o en mis redes sociales.
 
 ⚡ Dato curioso: Además de la programación, soy un gran fan de la economía y las finanzas, y disfruto integrando estos intereses en mis proyectos cuando puedo.
