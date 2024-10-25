@@ -5,7 +5,7 @@ Soy un apasionado de la Ciencia de Datos y un eterno curioso, siempre buscando l
 
 🚀 Mi objetivo es que estos proyectos puedan inspirar, colaborar con otros entusiastas y mostrar a empresas y personas cómo la Ciencia de Datos puede generar impacto positivo en la sociedad. Si eres tan apasionado de la tecnología y la innovación como yo, ¡explora mis repositorios y hablemos de datos! 🧠📊
 
-## Más sobre mí:
+### Más sobre mí:
 
 👯 Me encantaría colaborar en proyectos de ciencia de datos, análisis de datos y machine learning, especialmente aquellos que exploren aplicaciones innovadoras en el mundo real. ¡Siempre estoy abierto a nuevas ideas y proyectos colaborativos!
 
@@ -17,7 +17,7 @@ Soy un apasionado de la Ciencia de Datos y un eterno curioso, siempre buscando l
 
 ⚡ Dato curioso: Además de la programación, soy un gran fan de la economía y las finanzas, y disfruto integrando estos intereses en mis proyectos cuando puedo.
 
-## ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ramonmorillx">
