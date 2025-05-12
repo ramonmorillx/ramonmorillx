@@ -1,7 +1,7 @@
 # Hola, Soy Ramón Morillo 👋
 ### Data Scientist
 
-Soy un apasionado de la Ciencia de Datos y un eterno curioso, siempre buscando la próxima pregunta que resolver o el siguiente desafío que abordar. Estudio Ciencia de Datos y creo en el poder de la programación y el aprendizaje automático para dar vida a ideas que pueden marcar una diferencia. Aquí encontrarás mis proyectos personales en los que exploro desde algoritmos predictivos hasta visualización de datos, aplicando lo que aprendo día a día.
+Soy especialista en Ciencia de Datos, con una profunda curiosidad y un compromiso constante con la resolución de nuevos retos. Me encuentro en formación continua en este ámbito y confío en la capacidad de la programación y el aprendizaje automático para materializar ideas con impacto real. En este espacio se presentan mis proyectos personales, donde aplico métodos de análisis predictivo y técnicas de visualización de datos, poniendo en práctica los conocimientos adquiridos día a día.
 
 🚀 Mi objetivo es que estos proyectos puedan inspirar, colaborar con otros entusiastas y mostrar a empresas y personas cómo la Ciencia de Datos puede generar impacto positivo en la sociedad. Si eres tan apasionado de la tecnología y la innovación como yo, ¡explora mis repositorios y hablemos de datos! 🧠📊
 
